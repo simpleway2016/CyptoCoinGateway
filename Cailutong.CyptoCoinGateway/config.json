@@ -1,0 +1,8 @@
+﻿{
+  "ConnectString": "data source=\"./data.db\"",
+  "DatabaseType": "Sqlite",
+  "Listen": 9880,
+  "NBXplorer": {
+    "ServerUrl": "http://47.75.159.73:24444"
+  }
+}
